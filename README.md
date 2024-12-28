@@ -31,7 +31,7 @@ A beautiful and functional notes application built with React, TypeScript, and T
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/react-notes-app.git
+(https://github.com/omalmaleesha/IOS-Notes-App.git)
 cd react-notes-app
 ```
 
